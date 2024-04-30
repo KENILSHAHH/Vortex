@@ -1,3 +1,7 @@
+## ScrollDID
+
+ScrollDID is s a W3C-compliant Decentralized Identifier (DID) solution tailored for the healthcare sector. It leverages state-of-the-art decentralized cryptography for identity-based encryption and signing of healthcare data, ensuring maximum security and user control.
+
 ## Key Features:
 
 Decentralized Cryptography: At the heart of ScrollDID is a state-of-the-art decentralized cryptographic system. This ensures that healthcare data is not only encrypted but also signed in a manner that is distributed, making it resilient against breaches and single points of failure.
