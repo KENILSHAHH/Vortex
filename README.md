@@ -23,3 +23,6 @@ User-Centric Privacy: Users no longer have to rely on third parties to safeguard
 Interoperability: Being built on W3C's DID standards, did:health is designed to be interoperable with other systems, ensuring a seamless experience for users and healthcare providers alike.
 
 Transparency and Trust: With the decentralized nature of the system, all operations are transparent, fostering trust among users and stakeholders.
+
+### Verifier contract Deployed and Verified on Scroll Sepolia 
+https://sepolia.scrollscan.com/address/0x07d0d1ca04fa764cbec97eb7e2427fc5306fe068
